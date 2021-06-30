@@ -4,7 +4,7 @@
  */
 /*
 Plugin Name: Gutenberg ZIP Upload
-Plugin URI: https://rodolfohernan20.blogspot.com.com/
+Plugin URI: https://github.com/rjcalifornia/gutenberg_zip_upload
 Description: Simple plugin for ZIP uploads using Gutenberg Blocks.
 Version: 1.0
 Author: rjcalifornia
