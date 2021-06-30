@@ -1,9 +1,9 @@
 <?php
 /**
- * @package Gutenberg ZIP Upload
+ * @package GutenZIP Upload
  */
 /*
-Plugin Name: Gutenberg ZIP Upload
+Plugin Name: GutenZIP Upload
 Plugin URI: https://github.com/rjcalifornia/gutenberg_zip_upload
 Description: Simple plugin for ZIP uploads using Gutenberg Blocks.
 Version: 1.0
