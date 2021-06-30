@@ -1,11 +1,11 @@
 <?php
 /**
- * @package GutenZIP Upload
+ * @package FixZIP Upload
  */
 /*
-Plugin Name: GutenZIP Upload
-Plugin URI: https://github.com/rjcalifornia/gutenberg_zip_upload
-Description: Simple plugin for ZIP uploads using Gutenberg Blocks.
+Plugin Name: FixZIP Upload
+Plugin URI: https://github.com/rjcalifornia/fixzip_upload
+Description: Simple plugin for fixing ZIP uploads in the Gutenberg Editor
 Version: 1.0
 Author: rjcalifornia
 Author URI: https://rodolfohernan20.blogspot.com.com/
